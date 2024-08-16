@@ -1,0 +1,11 @@
+Package: fortnitedatasim
+Title: Fortnite Player Data Simulation
+Version: 0.0.0.9000
+Authors@R: person("Nehemias", "Ulloa", email = "ulloagithub@gmail.com", role = c("aut", "cre"))
+Description: This package will simulate fornite player data and teams based off those data.
+Depends: R (>= 3.3.1)
+Imports: 
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1.9000
